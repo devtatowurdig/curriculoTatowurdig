@@ -57,7 +57,7 @@ export default function Hero() {
             {/* Social Links */}
             <div className="flex items-center justify-center md:justify-start gap-4">
               <a
-                href="https://linkedin.com/in/tatowurdig"
+                href="https://www.linkedin.com/in/devtatowurdig/"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="LinkedIn"
@@ -77,7 +77,7 @@ export default function Hero() {
                 GitHub
               </a>
               <a
-                href="https://wa.me/5500000000000" // TODO: Replace with your actual WhatsApp number
+                href="https://wa.me/5553999771729"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="WhatsApp"
