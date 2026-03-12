@@ -24,25 +24,11 @@
     "present": "Present",
     "items": [
       {
-        "role": "Senior Full Stack Developer",
-        "company": "TechCorp Brasil",
-        "period": "Jan 2022 – Present",
-        "description": "Technical leadership in developing high-scale SaaS platforms. Microservices architecture, CI/CD, and mentoring junior team members.",
-        "techs": ["React", "Node.js", "TypeScript", "PostgreSQL", "Docker", "AWS", "GraphQL"]
-      },
-      {
-        "role": "Front-End Developer",
-        "company": "StartupXYZ",
-        "period": "Mar 2020 – Dec 2021",
-        "description": "Development of responsive and accessible interfaces for an e-commerce platform. Focus on performance and user experience.",
-        "techs": ["React", "JavaScript", "TailwindCSS", "Redux", "Jest"]
-      },
-      {
-        "role": "Junior Back-End Developer",
-        "company": "AgênciaDigital",
-        "period": "Jun 2018 – Feb 2020",
-        "description": "Creation and maintenance of REST APIs for business management systems. Integration with third-party services and relational databases.",
-        "techs": ["Node.js", "Express", "MySQL", "MongoDB", "REST APIs"]
+        "role": "Full Stack Developer (Intern)",
+        "company": "Mertins Tecnologias",
+        "period": "Aug 2025 – Present",
+        "description": "Involvement in the software development lifecycle, focusing on Java systems, Web applications, and IoT solutions. Support in automating internal processes and monitoring implementation and deployment stages of new features.",
+        "techs": ["Java", "Payara", "C#", "JavaScript", "PostgreSQL", "Docker", "Git"]
       }
     ]
   },
@@ -50,18 +36,11 @@
     "title": "Education",
     "items": [
       {
-        "degree": "Bachelor's in Computer Science",
-        "institution": "Federal University",
-        "period": "2014 – 2018",
-        "description": "Strong foundation in algorithms, data structures, software engineering, and distributed systems.",
-        "techs": ["Java", "C++", "Python", "Linux", "Git", "SQL"]
-      },
-      {
-        "degree": "Postgraduate in Web Development",
-        "institution": "Technology Institute",
-        "period": "2019 – 2020",
-        "description": "Specialization in modern web technologies, system architecture, and development best practices.",
-        "techs": ["React", "Node.js", "MongoDB", "DevOps", "Agile"]
+        "degree": "Systems Analysis and Development",
+        "institution": "Centro Universitário UniSenac - Pelotas",
+        "period": "2024 – 2027",
+        "description": "Program focused on developing systems and technological solutions, with knowledge in programming, databases, software engineering, and requirements analysis to meet business demands.",
+        "techs": ["HTML", "CSS", "JavaScript", "React", "SQL", "NoSQL", "Git", "Agile"]
       }
     ]
   },

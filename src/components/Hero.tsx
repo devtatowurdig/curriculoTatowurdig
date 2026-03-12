@@ -11,17 +11,17 @@ export default function Hero() {
       id="hero"
       className="min-h-screen flex items-center justify-center pt-16 px-4"
     >
-      <div className="max-w-5xl mx-auto w-full">
-        <div className="flex flex-col md:flex-row items-center gap-10 md:gap-16">
+      <div className="w-fit mx-auto">
+        <div className="flex flex-col md:flex-row items-center justify-center gap-10 md:gap-16">
           {/* Photo */}
           <div className="flex-shrink-0">
             <div className="relative">
-              <div className="w-44 h-44 md:w-56 md:h-56 rounded-full gradient-brand p-1 shadow-xl shadow-brand-500/20">
-                <div className="w-full h-full rounded-full overflow-hidden bg-gray-200 dark:bg-gray-700 flex items-center justify-center">
+              <div className="w-52 h-52 md:w-56 md:h-56 rounded-full gradient-brand p-1 shadow-xl shadow-brand-500/20">
+                <div className="w-full h-full rounded-full overflow-hidden bg-gray-200 dark:bg-gray-700 flex items-start justify-center">
                   <img
-                    src="/profile.jpg"
-                    alt="Tatowurdig"
-                    className="w-full h-full object-cover"
+                    src="./profile.png"
+                    alt="Tácio wurdig"
+                    className="w-full h-full object-cover object-top"
                     onError={(e) => {
                       const target = e.currentTarget;
                       target.style.display = 'none';
@@ -35,11 +35,6 @@ export default function Hero() {
                   />
                 </div>
               </div>
-              {/* Available badge */}
-              <span className="absolute bottom-2 left-1/2 -translate-x-1/2 flex items-center gap-1.5 bg-white dark:bg-gray-900 border border-green-200 dark:border-green-800 text-green-600 dark:text-green-400 text-xs font-semibold px-3 py-1 rounded-full shadow whitespace-nowrap">
-                <span className="w-2 h-2 rounded-full bg-green-500 animate-pulse" />
-                {t('hero.available')}
-              </span>
             </div>
           </div>
 
@@ -49,7 +44,7 @@ export default function Hero() {
               {t('hero.greeting')}
             </p>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-extrabold text-gray-900 dark:text-white mb-3 leading-tight">
-              Tatowurdig
+              Tácio Wurdig
             </h1>
             <p className="text-xl md:text-2xl text-gray-500 dark:text-gray-400 font-medium mb-4">
               {t('hero.role')}

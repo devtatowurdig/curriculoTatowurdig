@@ -16,7 +16,6 @@ const techColors: Record<string, string> = {
   TailwindCSS: 'bg-teal-100 text-teal-700 dark:bg-teal-900/40 dark:text-teal-300',
   Redux: 'bg-purple-100 text-purple-700 dark:bg-purple-900/40 dark:text-purple-300',
   Jest: 'bg-red-100 text-red-700 dark:bg-red-900/40 dark:text-red-300',
-  Express: 'bg-gray-100 text-gray-700 dark:bg-gray-800 dark:text-gray-300',
   'REST APIs': 'bg-emerald-100 text-emerald-700 dark:bg-emerald-900/40 dark:text-emerald-300',
   Java: 'bg-red-100 text-red-800 dark:bg-red-900/40 dark:text-red-200',
   'C++': 'bg-blue-100 text-blue-900 dark:bg-blue-900/40 dark:text-blue-200',
@@ -26,6 +25,11 @@ const techColors: Record<string, string> = {
   SQL: 'bg-cyan-100 text-cyan-700 dark:bg-cyan-900/40 dark:text-cyan-300',
   DevOps: 'bg-violet-100 text-violet-700 dark:bg-violet-900/40 dark:text-violet-300',
   Agile: 'bg-lime-100 text-lime-700 dark:bg-lime-900/40 dark:text-lime-300',
+  HTML: 'bg-orange-100 text-orange-700 dark:bg-orange-900/40 dark:text-orange-300',
+  CSS: 'bg-sky-100 text-sky-700 dark:bg-sky-900/40 dark:text-sky-300',
+  NoSQL: 'bg-emerald-100 text-emerald-700 dark:bg-emerald-900/40 dark:text-emerald-300',
+  Payara: 'bg-indigo-300 text-indigo-700 dark:bg-indigo-900/40 dark:text-indigo-300',
+  'C#': 'bg-sky-100 text-sky-800 dark:bg-sky-900/40 dark:text-sky-200',
 };
 
 export default function TechBadge({ name }: TechBadgeProps) {

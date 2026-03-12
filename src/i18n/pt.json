@@ -24,25 +24,11 @@
     "present": "Atual",
     "items": [
       {
-        "role": "Desenvolvedor Full Stack Sênior",
-        "company": "TechCorp Brasil",
-        "period": "Jan 2022 – Presente",
-        "description": "Liderança técnica no desenvolvimento de plataformas SaaS de alta escala. Arquitetura de microsserviços, CI/CD e mentoria de equipe júnior.",
-        "techs": ["React", "Node.js", "TypeScript", "PostgreSQL", "Docker", "AWS", "GraphQL"]
-      },
-      {
-        "role": "Desenvolvedor Front-End",
-        "company": "StartupXYZ",
-        "period": "Mar 2020 – Dez 2021",
-        "description": "Desenvolvimento de interfaces responsivas e acessíveis para plataforma de e-commerce. Foco em performance e experiência do usuário.",
-        "techs": ["React", "JavaScript", "TailwindCSS", "Redux", "Jest"]
-      },
-      {
-        "role": "Desenvolvedor Back-End Jr.",
-        "company": "AgênciaDigital",
-        "period": "Jun 2018 – Fev 2020",
-        "description": "Criação e manutenção de APIs REST para sistemas de gestão empresarial. Integração com serviços de terceiros e bancos de dados relacionais.",
-        "techs": ["Node.js", "Express", "MySQL", "MongoDB", "REST APIs"]
+        "role": "Desenvolvedor Full Stack (Estágio)",
+        "company": "Mertins Tecnologias",
+        "period": "Ago 2025 – Presente",
+        "description": "Atuação no ciclo de desenvolvimento de software, com foco em sistemas Java, aplicações Web e soluções de IoT. Apoio na automação de processos internos e acompanhamento das etapas de implementação e deploy de novas funcionalidades",
+        "techs": ["Java", "Payara", "C#", "JavaScript", "PostgreSQL", "Docker", "Git"]
       }
     ]
   },
@@ -50,18 +36,11 @@
     "title": "Educação",
     "items": [
       {
-        "degree": "Bacharelado em Ciência da Computação",
-        "institution": "Universidade Federal",
-        "period": "2014 – 2018",
-        "description": "Formação sólida em algoritmos, estruturas de dados, engenharia de software e sistemas distribuídos.",
-        "techs": ["Java", "C++", "Python", "Linux", "Git", "SQL"]
-      },
-      {
-        "degree": "Pós-Graduação em Desenvolvimento Web",
-        "institution": "Instituto de Tecnologia",
-        "period": "2019 – 2020",
-        "description": "Especialização em tecnologias web modernas, arquitetura de sistemas e boas práticas de desenvolvimento.",
-        "techs": ["React", "Node.js", "MongoDB", "DevOps", "Agile"]
+        "degree": "Análise e Desenvolvimento de Sistemas",
+        "institution": "Centro Universitário UniSenac - Pelotas ",
+        "period": "2024 – 2027",
+        "description": "Formação focada no desenvolvimento de sistemas e soluções tecnológicas, com conhecimentos em programação, banco de dados, engenharia de software e análise de requisitos para atender demandas de negócio.",
+        "techs": ["HTML", "CSS", "JavaScript", "React", "SQL", "NoSQL", "Git", "Agile"]
       }
     ]
   },
@@ -79,7 +58,7 @@
     ]
   },
   "footer": {
-    "madeWith": "Feito com",
+    "madeWith": "Feito",
     "by": "por"
   }
 }
