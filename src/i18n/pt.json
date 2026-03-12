@@ -1,0 +1,85 @@
+{
+  "nav": {
+    "about": "Sobre",
+    "experience": "Experiência",
+    "education": "Educação",
+    "skills": "Habilidades",
+    "darkMode": "Modo Escuro",
+    "lightMode": "Modo Claro",
+    "downloadPDF": "Baixar PDF",
+    "language": "EN"
+  },
+  "hero": {
+    "greeting": "Olá, eu sou",
+    "role": "Desenvolvedor Full Stack",
+    "location": "Brasil",
+    "available": "Disponível para oportunidades"
+  },
+  "about": {
+    "title": "Sobre Mim",
+    "description": "Desenvolvedor Full Stack apaixonado por tecnologia e inovação, com experiência no desenvolvimento de soluções web modernas e escaláveis. Gosto de transformar ideias complexas em interfaces intuitivas e funcionais. Busco constantemente aprender novas tecnologias e contribuir em projetos desafiadores que causem impacto real."
+  },
+  "experience": {
+    "title": "Experiência Profissional",
+    "present": "Atual",
+    "items": [
+      {
+        "role": "Desenvolvedor Full Stack Sênior",
+        "company": "TechCorp Brasil",
+        "period": "Jan 2022 – Presente",
+        "description": "Liderança técnica no desenvolvimento de plataformas SaaS de alta escala. Arquitetura de microsserviços, CI/CD e mentoria de equipe júnior.",
+        "techs": ["React", "Node.js", "TypeScript", "PostgreSQL", "Docker", "AWS", "GraphQL"]
+      },
+      {
+        "role": "Desenvolvedor Front-End",
+        "company": "StartupXYZ",
+        "period": "Mar 2020 – Dez 2021",
+        "description": "Desenvolvimento de interfaces responsivas e acessíveis para plataforma de e-commerce. Foco em performance e experiência do usuário.",
+        "techs": ["React", "JavaScript", "TailwindCSS", "Redux", "Jest"]
+      },
+      {
+        "role": "Desenvolvedor Back-End Jr.",
+        "company": "AgênciaDigital",
+        "period": "Jun 2018 – Fev 2020",
+        "description": "Criação e manutenção de APIs REST para sistemas de gestão empresarial. Integração com serviços de terceiros e bancos de dados relacionais.",
+        "techs": ["Node.js", "Express", "MySQL", "MongoDB", "REST APIs"]
+      }
+    ]
+  },
+  "education": {
+    "title": "Educação",
+    "items": [
+      {
+        "degree": "Bacharelado em Ciência da Computação",
+        "institution": "Universidade Federal",
+        "period": "2014 – 2018",
+        "description": "Formação sólida em algoritmos, estruturas de dados, engenharia de software e sistemas distribuídos.",
+        "techs": ["Java", "C++", "Python", "Linux", "Git", "SQL"]
+      },
+      {
+        "degree": "Pós-Graduação em Desenvolvimento Web",
+        "institution": "Instituto de Tecnologia",
+        "period": "2019 – 2020",
+        "description": "Especialização em tecnologias web modernas, arquitetura de sistemas e boas práticas de desenvolvimento.",
+        "techs": ["React", "Node.js", "MongoDB", "DevOps", "Agile"]
+      }
+    ]
+  },
+  "softskills": {
+    "title": "Soft Skills",
+    "items": [
+      { "name": "Comunicação", "icon": "💬" },
+      { "name": "Trabalho em Equipe", "icon": "🤝" },
+      { "name": "Resolução de Problemas", "icon": "🧩" },
+      { "name": "Liderança", "icon": "🚀" },
+      { "name": "Adaptabilidade", "icon": "🔄" },
+      { "name": "Pensamento Crítico", "icon": "🎯" },
+      { "name": "Proatividade", "icon": "⚡" },
+      { "name": "Gestão de Tempo", "icon": "⏰" }
+    ]
+  },
+  "footer": {
+    "madeWith": "Feito com",
+    "by": "por"
+  }
+}
